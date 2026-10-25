@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Mohamed Siyad
@@ -8,11 +9,11 @@
 
 Building practical skills with Azure, AWS, Terraform, Docker, Linux, and scripting.
 
-<a href="https://github.com/siyadfuture">
-  <img src="https://img.shields.io/badge/GitHub-siyadfuture-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<a href="https://github.com/mohamedsiyad1">
+  <img src="https://img.shields.io/badge/GitHub-mohamedsiyad1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/siyadfuture?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-6C63FF?style=for-the-badge&logo=github" alt="Repositories"/>
+<a href="https://github.com/mohamedsiyad1?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 </div>
@@ -51,7 +52,7 @@ Explore my repositories to see my learning, hands-on labs, and practical project
 - 🐳 **Docker & CI/CD** — Containers and deployment automation
 - ⚙️ **Scripting** — Bash and PowerShell practice
 
-**[→ View All Repositories](https://github.com/siyadfuture?tab=repositories)**
+**[→ View All Repositories](https://github.com/mohamedsiyad1?tab=repositories)**
 
 ---
 
@@ -59,9 +60,9 @@ Explore my repositories to see my learning, hands-on labs, and practical project
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=siyadfuture&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mohamedsiyad1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9" alt="GitHub statistics"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyadfuture&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsiyad1&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
 
@@ -72,3 +73,11 @@ Explore my repositories to see my learning, hands-on labs, and practical project
 ### 🤝 Let's Connect
 
 **Learn. Build. Document. Improve.**
+
+<a href="https://github.com/mohamedsiyad1">
+  <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+</a>
+
+<sub>Growing my cloud and DevOps skills, one practical project at a time.</sub>
+
+</div>
